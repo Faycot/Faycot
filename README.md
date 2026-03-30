@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
 
-<!--
-**Faycot/Faycot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Enzo 👋
 
-Here are some ideas to get you started:
+**Apprentice Full-Stack Developer · JavaScript · React · Laravel · Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-moita-a8479424a/)
+
+</div>
+
+## Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,php,python,laravel,docker,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## Projects
+
+| Project                                                  | Description                                                        | Stack                 | Status         |
+| -------------------------------------------------------- | ------------------------------------------------------------------ | --------------------- | -------------- |
+| [🌌 Lorebase](https://github.com/Faycot/lorebase)        | Custom CMS built from scratch with our own framework design system | Php · Html - Css - Js | ✅ Done        |
+| [🐍 Snake SFML](https://github.com/Faycot/snake-sfml-)   | Classic Snake game with graphical rendering                        | C++ · SFML            | ✅ Done        |
+| [🐦 MiniTweet](https://github.com/Moonysphere/MiniTweet) | Minimal Twitter-like social app                                    | PHP                   | ✅ Done        |
+| [🌿 Epure](https://github.com/Moonysphere/Epure)         | E-commerce website built from scratch with Django                  | Python · Django       | ✅ Done        |
+| [🔤 DecoDLE](https://github.com/Faycot/DecoDLE)          | Daily word game for students and teachers at our school            | Laravel               | 🚧 In progress |
+
+---
+
+<div align="center">
+<sub>Made with focus ☕</sub>
+</div>
