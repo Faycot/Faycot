@@ -1,13 +1,21 @@
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm Enzo 👋
+# Hi, there, I'm Enzo
 
 **Apprentice Full-Stack Developer · JavaScript · React · Laravel · Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-moita-a8479424a/)
 
 </div>
+
+---
+
+## About me
+
+Developer in apprenticeship at **Daven** (Paris), building my skills one project at a time.
+I work across the full stack — **HTML/CSS** and **React/JavaScript** for the front,
+**PHP/Laravel** on the back, **Python** when it makes sense.
 
 ## Tech stack
 
