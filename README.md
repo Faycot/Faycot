@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, there, I'm Enzo
+# Hi there, I'm Enzo
 
 **Apprentice Full-Stack Developer · JavaScript · React · Laravel · Python**
 
