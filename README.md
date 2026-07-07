@@ -33,7 +33,7 @@ I work across the full stack — **HTML/CSS** and **React/JavaScript** for the f
 | [🐍 Snake SFML](https://github.com/Faycot/snake-sfml-)   | Classic Snake game with graphical rendering                        | C++ · SFML            | ✅ Done        |
 | [🐦 MiniTweet](https://github.com/Moonysphere/MiniTweet) | Minimal Twitter-like social app                                    | PHP                   | ✅ Done        |
 | [🌿 Epure](https://github.com/Moonysphere/Epure)         | E-commerce website built from scratch with Django                  | Python · Django       | ✅ Done        |
-| [🔤 DecoDLE](https://github.com/Faycot/DecoDLE)          | Daily word game for students and teachers at our school            | Laravel               | 🚧 In progress |
+| [🔤 DecoDLE](https://github.com/Faycot/DecoDLE)          | Daily word game for students and teachers at our school            | Laravel               | ✅ Done        |
 
 ---
 
